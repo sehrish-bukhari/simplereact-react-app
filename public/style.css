@@ -1,0 +1,35 @@
+header{
+    background-color:rgb(44, 10, 75);
+    margin: auto -16px;
+    padding: 1px 32px;
+    box-shadow: 0 0 10px 0;
+}
+header h1{
+    color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200px;
+    font-size: 50px;
+}
+
+footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 100;
+    background-color: rgb(44, 10, 75);
+}
+footer h3{
+    color: cornsilk;
+}
+.content{
+    box-shadow: 0 0 15px 0;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: thistle;
+    font-family: serif;
+    
+}
+    
